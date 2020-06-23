@@ -1,0 +1,15 @@
+{
+  "name": "twitter_bot",
+  "version": "1.0.0",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alexei Chapira",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
